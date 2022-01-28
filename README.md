@@ -5,7 +5,6 @@ Run the following commands in the template folder
 ```sh
 sudo pacman -S npm entr elm
 npm install -g live-server
-elm install
 ```
 
 ## Usage
